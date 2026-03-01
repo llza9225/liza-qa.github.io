@@ -1,2 +1,2 @@
-# liza-qa.github.io
+# liza.github.io
 Сайт визиткаHTML, CSS
